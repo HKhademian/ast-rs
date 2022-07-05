@@ -1,0 +1,16 @@
+[package]
+name = "ast-rs"
+version = "0.0.1"
+edition = "2021"
+rust-version = "1.61"
+authors = ["Hossain Khademian"]
+description = "AST Toolkit for Rust"
+readme = "README.md"
+documentation = "https://docs.rs/ast-rs"
+homepage = "https://github.com/hkhademian/ast-rs"
+repository = "https://github.com/hkhademian/ast-rs"
+license = "MIT"
+keywords = ["ast", "token", "parser", "lexer", "tokenizer"]
+crate-type = ["lib"]
+
+[dependencies]
